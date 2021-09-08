@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AnimatedFabMenu</string>
+    <string name="add_button">add button</string>
+    <string name="edit_button">edit button</string>
+    <string name="my_location_button">My location button</string>
+    <string name="record_voice_button">Record Voice button</string>
 </resources>
