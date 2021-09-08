@@ -28,7 +28,6 @@ class MainActivity : AppCompatActivity() {
             isOpen = !isOpen
             setVisibility()
             setAnimation()
-            showToast("Add Fab")
         }
         editFab.setOnClickListener { showToast("Edit Fab") }
         locationFab.setOnClickListener { showToast("location Fab") }
